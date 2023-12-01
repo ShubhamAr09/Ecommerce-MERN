@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e180e13.css",
+    "main.js": "/static/js/main.58b97342.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/r1.png": "/static/media/r1.c1a996c93a45713974de.png",
+    "static/media/aboutus.png": "/static/media/aboutus.6bda725e2ce30cdb1215.png",
+    "static/media/b3.jpg": "/static/media/b3.1bfcf8051e1a4121f626.jpg",
+    "static/media/r5.png": "/static/media/r5.462ed495589a0d534980.png",
+    "static/media/r3.png": "/static/media/r3.b0be5c77e4564d6f8d1a.png",
+    "static/media/r2.png": "/static/media/r2.2c8c185a2a99af6369ca.png",
+    "static/media/toji.png": "/static/media/toji.cea549eb963b6516f6a9.png",
+    "static/media/itachi.png": "/static/media/itachi.a6457a178ca955efc118.png",
+    "static/media/image1.png": "/static/media/image1.5572dd78c2d29e36205c.png",
+    "static/media/b2.jpg": "/static/media/b2.cbac60cf62455a36bda3.jpg",
+    "static/media/r4.png": "/static/media/r4.e9fef5bdf24841324e5a.png",
+    "static/media/b1.jpg": "/static/media/b1.bcf545e3b9407d6219a6.jpg",
+    "static/media/emptycart.jpg": "/static/media/emptycart.8effbb4c1d2e764ad975.jpg",
+    "static/media/luffycat.jpg": "/static/media/luffycat.149deeba98b75ea052a1.jpg",
+    "static/media/sukuna.jpg": "/static/media/sukuna.f34eb6bd4ffbe2c04a64.jpg",
+    "static/media/demonslayer_cat.jpg": "/static/media/demonslayer_cat.027db595151cf309795b.jpg",
+    "static/media/tokyo_cat.jpg": "/static/media/tokyo_cat.76178a6bb72df9964063.jpg",
+    "static/media/chainsawcat.jpg": "/static/media/chainsawcat.07c6ef59961461b390e4.jpg",
+    "static/media/aot_cat.jpg": "/static/media/aot_cat.7b2bc3fc6fc427c00ddc.jpg",
+    "static/media/dbz_cat.jpg": "/static/media/dbz_cat.ce6f756f122395bc8ca1.jpg",
+    "static/media/senpai_cat.jpg": "/static/media/senpai_cat.b3050db4e932a6015a42.jpg",
+    "index.html": "/index.html",
+    "main.0e180e13.css.map": "/static/css/main.0e180e13.css.map",
+    "main.58b97342.js.map": "/static/js/main.58b97342.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e180e13.css",
+    "static/js/main.58b97342.js"
+  ]
+}
